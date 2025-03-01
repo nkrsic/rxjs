@@ -6,9 +6,9 @@
     - Andre Staltz 
     - https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
         - Twitter follow example: https://jsfiddle.net/staltz/8jFJH/48/
-
-
-
+    
+    - NOTE: The code from this tutorial uses much older versions of rxjs, 
+            try to find more recent code examples.
 
 ## Glossary
 
@@ -23,4 +23,6 @@
 
 
 ## Notes
+
+This tutorial assumes knowledge of jQuery Ajax callbacks
 
